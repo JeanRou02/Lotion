@@ -1,0 +1,22 @@
+
+.notePreview-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.note-title {
+    font-size: 1.2rem;
+    font-weight: bold; 
+    padding-bottom: 1px;
+}
+
+.date {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 0.65rem;
+    padding-bottom: 4px;
+}
+
+.preview {
+    font-size: 0.9rem;
+}

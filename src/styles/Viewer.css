@@ -1,0 +1,80 @@
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+    flex: 8;
+    background-color: rgba(0, 0, 200, 0.1);
+    height: 92vh;
+}
+
+.viewer-header {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgba(138, 16, 16, 0.2);
+}
+
+.viewer-header-left {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.viewer-title {
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding-bottom: 1px;
+    padding-bottom: 5px;
+}
+
+.viewer-date input {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 0.8rem;
+    padding-bottom: 4px;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+}
+
+.viewer-date {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 0.8rem;
+    padding-bottom: 4px;
+}
+
+.viewer-header-right {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.viewer-delete-button,
+.viewer-edit-button {
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    border: none;
+    background-color: inherit;
+    width: 70px;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.viewer-delete-button:hover,
+.viewer-edit-button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.viewer-body {
+    display: flex;
+    flex: 100;
+    background-color: rgba(7, 0, 207, 0.1);
+}
+
+.viewer-body-text {
+    flex: 1;
+    background-color: rgba(155, 227, 10, 0.1);
+    padding: 10px;
+}

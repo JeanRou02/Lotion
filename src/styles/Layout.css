@@ -1,0 +1,45 @@
+
+.main-header {
+    display: flex;
+    background-color: rgba(200, 0, 0, 0.1);
+    height: 8vh;
+  }
+  
+  .main-header .left {
+    display: flex;
+    flex: 1;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+  }
+
+  .main-header .left > button {
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    border: none;
+    background-color: inherit;
+  }
+  
+  .main-header .center {
+    display: flex;
+    flex-direction: column;
+    flex: 9;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .main-header .center > h5{
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .main-header .right {
+    display: flex;
+    flex: 1;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+  }
