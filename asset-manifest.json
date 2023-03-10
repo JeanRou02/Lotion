@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lotion/static/css/main.b828d0df.css",
-    "main.js": "/lotion/static/js/main.8f62929d.js",
+    "main.css": "/lotion/static/css/main.34770a1d.css",
+    "main.js": "/lotion/static/js/main.3ecfe816.js",
     "static/js/787.3009e4a0.chunk.js": "/lotion/static/js/787.3009e4a0.chunk.js",
     "index.html": "/lotion/index.html",
-    "main.b828d0df.css.map": "/lotion/static/css/main.b828d0df.css.map",
-    "main.8f62929d.js.map": "/lotion/static/js/main.8f62929d.js.map",
+    "main.34770a1d.css.map": "/lotion/static/css/main.34770a1d.css.map",
+    "main.3ecfe816.js.map": "/lotion/static/js/main.3ecfe816.js.map",
     "787.3009e4a0.chunk.js.map": "/lotion/static/js/787.3009e4a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b828d0df.css",
-    "static/js/main.8f62929d.js"
+    "static/css/main.34770a1d.css",
+    "static/js/main.3ecfe816.js"
   ]
 }
